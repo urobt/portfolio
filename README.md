@@ -1,3 +1,3 @@
 # portfolio
 
-oh.... can't hangul? i wanna han-gul!
+oh.... can't hangul? i wanna han-gul!!
