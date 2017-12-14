@@ -1,3 +1,6 @@
 # portfolio
 
-oh.... can't hangul? i wanna han-gul!!
+Backjoon
+https://www.acmicpc.net/step
+https://www.acmicpc.net/workbook/list
+
