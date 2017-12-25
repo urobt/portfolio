@@ -1,0 +1,2 @@
+power mode 3
+https://plugins.jetbrains.com/plugin/8251-power-mode-ii
