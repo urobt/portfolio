@@ -1,0 +1,9 @@
+a , b = input().split()
+print(int(a)+int(b))
+
+ref //.split()
+https://dojang.io/mod/page/view.php?id=853
+
+ex_code
+a, b = map(int, input().split())
+print(a+b)
