@@ -4,4 +4,4 @@ for i in range(1 , a+1):
     SS = "*" * i
     print("%as" %SS)
 
-//right sort
+//right sort, need more fix.
