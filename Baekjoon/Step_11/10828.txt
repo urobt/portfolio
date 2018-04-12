@@ -1,0 +1,32 @@
+﻿def stack(n):
+    n = input("어떤 명령을 할건데?")
+    if n.upper() == str("POP"):
+        try:
+            print(a.pop())
+        except:
+            print("-1")
+    elif n.upper() == "SIZE":
+        print(len(a))
+    elif n.upper() == "EMPTY":
+        if len(a) > 0:
+            print("0")
+        else:
+            print("1")
+    elif n.upper() == "TOP":
+        try:
+            print(a[0])
+            # or a[-1]
+        except:
+            print("-1") 
+    else:
+        n.split()
+        a.append(n[5])
+        # == a.append(int(n.split()[1]))
+
+n = 0
+a=[]
+
+for n in range(int(input("몇줄이나 명령할꺼야?"))):
+    stack(n)
+
+//2018.01.01
