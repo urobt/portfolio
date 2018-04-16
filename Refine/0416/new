@@ -6,6 +6,7 @@ http://www.itworld.co.kr/news/108417
 
 git lfs fail. 
 왜 땡겨오지 못했던 걸까. lfs 올리려고 했더니 기다리기만 하다가 튕겨버림. git pull도 fail. 한참이나 기다리다가 결국 파일 반영 제대로 안됨.
+github diff log 열람. 
 
 scp -P 22 /home/me/wow.html abc@111.222.333.444:/home/abc/
 tar cvf FTZ_vmdk.tar ./*
